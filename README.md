@@ -4,6 +4,13 @@
 
 LeetcodeGPT is not affiliated with Leetcode. This is just a side project that I developed on my own
 
+# Demo
+
+
+https://github.com/user-attachments/assets/7b1df3d2-cffe-4039-8df1-8a7e8d82a06d
+
+
+
 # About The Project
 
 If you are doing leetcode problems and stuck you might go to ChatGPT or Gemini and ask for help.
